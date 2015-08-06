@@ -1,0 +1,16 @@
+{
+  "name": "TienTV/blockcmfacebook",
+  "description": "PrestaShop module blockcmfacebook",
+  "homepage": "https://github.com/tientv/blockcmfacebook",
+  "license": "none",
+  "authors": [
+    {
+      "name": "Tien TV",
+      "email": "tranvinhtienit@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "type": "prestashop-module"
+}
